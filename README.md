@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WoSchiller
 - 
-- 👀 I’m interested in intersections between data science and the humanities at large, as well as with archeology, my "specialization" in particular.
+- 👀 I’m interested in intersections between data science and the humanities at large, as well as with archeology, my 'academic' specialization in particular.
 - 
 - 🌱 I’m currently learning very basic programming stuff.
 - 
